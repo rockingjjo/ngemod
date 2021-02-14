@@ -1,0 +1,16 @@
+com/nge/neongenesisevanglion/ultrafuture/PalletRifleItem.java
+ com.nge.neongenesisevanglion.ultrafuture.PalletRifleItem
+com/nge/neongenesisevanglion/ultrafuture/EvanglionClientStuff.java
+ com.nge.neongenesisevanglion.ultrafuture.EvanglionClientStuff
+com/nge/neongenesisevanglion/ultrafuture/RifleShotEntityRenderer.java
+ com.nge.neongenesisevanglion.ultrafuture.RifleShotEntityRenderer
+com/nge/neongenesisevanglion/ultrafuture/Unit01Renderer.java
+ com.nge.neongenesisevanglion.ultrafuture.Unit01Renderer
+com/nge/neongenesisevanglion/ultrafuture/RifleShot.java
+ com.nge.neongenesisevanglion.ultrafuture.RifleShot
+com/nge/neongenesisevanglion/ultrafuture/Unit01Entity.java
+ com.nge.neongenesisevanglion.ultrafuture.Unit01Entity
+com/nge/neongenesisevanglion/ultrafuture/NeonGenesisEvanglion.java
+ com.nge.neongenesisevanglion.ultrafuture.NeonGenesisEvanglion
+com/nge/neongenesisevanglion/ultrafuture/Unit01Model.java
+ com.nge.neongenesisevanglion.ultrafuture.Unit01Model
