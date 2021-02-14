@@ -23,7 +23,7 @@ public class Unit01Entity extends PathAwareEntity implements IAnimatable {
 
     private <E extends IAnimatable> PlayState predicate(AnimationEvent<E> event)
     {
-        event.getController().setAnimation(new AnimationBuilder().addAnimation("afk", true));
+        event.getController().setAnimation(new AnimationBuilder().addAnimation("animation.Unit01.afk", true));
         return PlayState.CONTINUE;
     }
 
