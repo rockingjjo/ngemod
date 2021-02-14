@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ngeuf",
+  "version": "1.0.0",
+
+  "name": "Neon Genesis Evanglion Mod - Ultra Futurised",
+  "description": "This mod adds everything possible in minecraft from the series Neon Genesis Evanglion, but also makes it more... lets just say Ultra Futurised",
+  "authors": [
+    "Ragabith_zakilla_jjo"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/nge/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.nge.neongenesisevanglion.ultrafuture.NeonGenesisEvanglion"
+    ],
+    "client": [
+      "com.nge.neongenesisevanglion.ultrafuture.EvanglionClientStuff"
+    ]
+  },
+  "mixins": [
+
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
